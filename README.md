@@ -1,0 +1,1 @@
+Redirect to [`captchan`](https://github.com/catamphetamine/captchan) repo.
